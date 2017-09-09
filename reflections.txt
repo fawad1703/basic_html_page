@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* I have learned about HTML. How to use it to define the website or webpage that I am going to be designing and how to tranform a design given to me by a designer    into an actual website with that same font and style. I have learned to break break down a big problem into smaller ones and solve those one by one individually.
+
+* The part of editing a given HTML file to transform in into an output that I want, has been easy.Inserting tags and references to link and image source is also easy.
+
+* There has been as such no difficult part as of yet, but I have faced some challenge in remembering different tags for different tasks and to get different outputs.
+
+* I used the method of breaking down a large problem into smaller one and solving it. The project involved editing a given html file to get the output given in the pdf file.
+  Firstly I calculated what different headers and fonts were used at different lines and applied those. Then I divided the entire text into different paragraphs.
+  Then the links were added. Finally I sreached the "superscript" "horizontal rule" and "strikethrough" tags and applied those on the appropriate places in the code.

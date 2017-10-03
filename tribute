@@ -1,0 +1,34 @@
+<html>
+ <head>
+<link rel="stylesheet" type="text/css" href="kalam.css">
+</head> 
+ <body>   
+   <h1><b>A.P.J Abdul Kalam Azad</b></h1>
+<h3><i>Missile Man Of India</i></h3>
+<center><img src="http://www.bigwigo.com/wp-content/uploads/2016/02/00-FB-Share-Pic5.jpg" alt="Dr Kalam"align="middle">
+</center>
+<center><h2><b>Here is a time line of Dr Kalam's Life</b></h2></center>
+     <h4>
+    <p><b>1914 </b>- Born in Rameswaram, Madras Presidency</p>
+    <p><b>1954 </b>- Graduated in Physics from Madras University</p>
+    <p><b>1955 </b>- Moved to Madras to study Aerospace Engineering from Madras Institue of Technology</p>
+    <p><b>1960 </b>- Joined the Aeronautical Development Estblishment of Defence Research And Development Organisation(DRDO) as a Scientist</p>
+     <p><b>1969 </b>- Was transfered to Indian Space reasearch Organisation</p>
+     <p><b>1980 </b>- Succesfully deployed Rohini using Satellte Launch Vehicle in near earth Orbit</p>
+       <p><b>1981 </b>- Was Awarded Padam Bhushan</p>
+     <p><b>1993 </b>- Launched the Polar Satellite Launch Vehicle (PSLV)</p>
+     <p><b>1994 </b>- Began serving as chief Defence Advisor to Prime Minister and Secretory of DRDO</p>
+       <p><b>1997 </b>- Was awarded Bharat Ratna (India's highest civilian award)</p>
+     <p><b>1998 </b>- Developed low cost coronary stent along with Soma Raju</p>
+      <p><b>2002 </b>- Was Appointed as the 11th President of India</p> 
+      <p><b>2009 </b>- Awarded Hoover Medal by ASME foundation USA</p>
+      <p><b>2013 </b>- Awarded Von Brown Award by National Space Society</p> 
+     <p><b>2015 </b>- Died at age of 84 while giving at lecture at IIM Shillong</p>
+    </h4>    
+ <h2><p>"Suitably named 'the People's President', Dr. Kalam's humility and dedication to public service served as an inspiration to millions of Indians and admirers around the world."</p></h2>
+   <h4><p><i>-U.S President Barack Obama</i></p></h4>
+   </div>
+    <h2><p><b>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam"  target="_blank">Wikipedia Entry .</a></b></p></h2>
+ </body>
+<p>Written and coded by <a href="https://codepen.io/rash4321/pen/YrreRe" target="_blank">Fawad Raghib Ali</a></p>
+</html>  
